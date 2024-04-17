@@ -1,0 +1,1 @@
+# Generative-AI-course-with-AWS-and-udacity-
